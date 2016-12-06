@@ -1,0 +1,9 @@
+#box { 
+  padding: 20px;
+  border: 10px solid blue;
+}
+
+.red {
+  background: red;
+  color: white;
+}
