@@ -1,5 +1,5 @@
 // print hello world when called
-function helloWorld {
+function helloWorld () {
     console.log("Hello World!");
 }
-hellowWorld();
+helloWorld();
